@@ -1,0 +1,12 @@
+{
+  "short_name": "Matheo Maco Calculator 349 FINAL",
+  "name": "Matheo Maco Calculator 349 FINAL",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone"
+}
